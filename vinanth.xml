@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>3</Index>
+    <RGB>#C0C0C0</RGB>
+   </Color>
+   <Color>
+    <Index>4</Index>
+    <RGB>#FF0000</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9000</WindowHeight>
+  <WindowWidth>13860</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>75</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Default">
+  </Style>
+  <Style ss:ID="s68" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Times New Roman" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="16" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s62" ss:Width="168.75"/>
+   <Column ss:StyleID="s62" ss:Width="183"/>
+   <Column ss:StyleID="s62" ss:Width="126"/>
+   <Column ss:StyleID="s62" ss:Width="108.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="23.8125">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Existing skill sets</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">What training(delivered in March till now)</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Unix Shell Scripting</Data></Cell>
+    <Cell><Data ss:Type="String">Labs on Cloud for ACIS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Linux</Data></Cell>
+    <Cell><Data ss:Type="String">Content Preparation for IBM ICE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell><Data ss:Type="String">Windows Basics</Data></Cell>
+    <Cell><Data ss:Type="String">Teknoturf Website Migration</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Networking Basics</Data></Cell>
+    <Cell><Data ss:Type="String">Website rework &amp; testing for SEO</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell><Data ss:Type="String">Visualization</Data></Cell>
+    <Cell><Data ss:Type="String">Ebox Presentation audio editing</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">NOC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">ITIL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Cloud Computing</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Remote Infrastructure Management</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Website Migration</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell><Data ss:Type="String">Vm to Cloud Migration</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Cloud Management</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Content Development</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">Managing Lab on Cloud</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell><Data ss:Type="String">SOA</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <x:WorksheetOptions/>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s62" ss:Width="64.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <x:WorksheetOptions/>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s62" ss:Width="64.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <x:WorksheetOptions/>
+ </Worksheet>
+</Workbook>
